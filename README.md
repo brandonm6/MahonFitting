@@ -25,7 +25,7 @@ where:
 The testfile that is provided comes from the dataset published in Mahon (1996) and can be used for validation.
 
 ### Attributes
-  * slope: Slope
+  * slope
   * yinter: Y-Intercept
   * xinter: X-Intercept
   * slopeunc: Slope uncertainty
