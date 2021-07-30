@@ -1,11 +1,10 @@
 # MahonFitting v2.0
+The original program has been reduced to only the class Mahon (without the GUI), which performs the calculations.
 <!--toc-->
 
 ## Introduction
 
 This routine performs linear regressions to a set of measurement that have uncertainties in both axes, which we subsequently call *x* and *y*. The regression is based on the approach by Mahon (1996) and is the same regression as used by York (1969), however, with the corrected calculation for the uncertainties. The code presented here accompanies the publication of Trappitsch et al. (2018). If you want, please cite Trappitsch et al. (2018) as a reference for pointing at this tool.
-
-The original program has been reduced to only the class Mahon (without the GUI), which performs the calculations.
 
 ## Usage
 ### Preparing your data set
