@@ -16,7 +16,7 @@ Mahon requires a dataframe as a parameter. The column format must be:
 |    x     |   x unc 	|    y     |   y unc  |   corr   |
 
 where:
-- [x] are the x values 
+- [x ] are the x values 
 - [x unc] are the uncertainties for x
 - [y] are the y values
 - [y unc] are the uncertainties for y
